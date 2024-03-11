@@ -14,4 +14,4 @@ int main() {
 		z+=2;
 		cout<<endl;
 	}
-}
+} 
