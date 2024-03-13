@@ -9,7 +9,7 @@ int main() {
 			cout<<" ";
 		}
 		for(int k=1;k<=z;k++){
-			cout<<k;
+			cout<<(char)i;
 		}
 		z-=2;
 		cout<<endl;
