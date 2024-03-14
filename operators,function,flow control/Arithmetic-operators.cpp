@@ -1,8 +1,12 @@
 #include <iostream>
 using namespace std;
 int main(){
-	int a = 232;
-	int b = 789;
+	int a ;
+	cout<<"enter value of a";
+	cin >>a; 
+	int b ;
+	cout<<"enter value of b";
+	cin >>b; 
 	cout << "a + b = " << (a + b) << endl;
 	cout << "a - b = " << (a - b) << endl;
 	cout << "a * b = " << (a * b) << endl;
